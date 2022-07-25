@@ -8,6 +8,7 @@
   - https://blog.logrocket.com/why-you-should-switch-from-ruby-to-crystal/
   - https://crystal-lang.org/reference/1.5/index.html
   - https://github.com/crystal-lang/crystal/wiki/Crystal-for-Rubyists
+  - https://www.crystalforrubyists.com/
 
 3. La praxis
   https://github.com/quarkgluant/formation_crystal
