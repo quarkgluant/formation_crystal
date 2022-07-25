@@ -10,4 +10,9 @@
   - https://github.com/crystal-lang/crystal/wiki/Crystal-for-Rubyists
 
 3. La praxis
-  
+  https://github.com/quarkgluant/formation_crystal
+
+4. Pour plus tard
+  - https://hackernoon.com/ruby-on-rails-to-lucky-on-crystal-blazing-fast-fewer-bugs-and-even-more-fun-104010913fec
+  - https://medium.com/@florian.roesler/porting-a-rails-application-to-crystal-20b5b0a402e7
+  - https://amberframework.org/
